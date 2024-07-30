@@ -1,0 +1,66 @@
+Assingments:
+1. Access the Chrome Browser
+2. Enter the url : https://money.rediff.com/gainers
+3. Fetch the stock Details:Ras Resorts 
+		Group
+		Prev
+		Current : //td[text()='68.59']
+		% change
+		
+	if stock is available 
+		print the details
+	else 
+		print the stock name is not displayed in Gainers list
+=============================================================
+1. Access the Chrome Browser
+2. Enter the url : https://money.rediff.com/gainers
+3. Fetch the stock Details:Ras Resorts,GRP L,Hind. Zinc 
+		Group
+		Prev
+		Current
+		% change
+		
+	if stock is available 
+		print the details
+	else 
+		print the stock name is not displayed in Gainers list
+==============================================================		
+1. Access the Chrome Browser
+2. Enter the url : https://money.rediff.com/gainers
+3. Fetch the Current Price for these stock :Ras Resorts,GRP L,Hind. Zinc ....
+4. Store the details of the current price for these stocks 
+		
+	Print the current price for a specific stoc : Ras Resorts
+=================================================================
+
+Xpath Axes Locators:
+https://www.youtube.com/watch?v=Cg1S2SymQfE
+
+============================================================
+1. Develop Calculator class with the following methods 
+
+		addition()
+		subtraction()
+		multiplication()
+		divison()
+	
+	Develop another class to call these methods and perform calculations
+
+2. Develop a program with List,Set,Array,2D Array 
+		Print the values using for loop 
+					in Set - for each loop 
+
+3. Develop a program using wrapper classes 
+			Integer,Double,Float,Character,Long 
+
+4. Develop a program to throw the Exceptions
+		NullPointerException
+		NumberformatException
+		ArithmeticException
+		ArrayIndexOutofBoundsException
+		FileNotFoundException
+		
+5. Develop a class try/catch/finally
+	
+	
+	
