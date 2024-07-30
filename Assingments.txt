@@ -1,4 +1,5 @@
 Assingments:
+Modify file
 1. Access the Chrome Browser
 2. Enter the url : https://money.rediff.com/gainers
 3. Fetch the stock Details:Ras Resorts 
